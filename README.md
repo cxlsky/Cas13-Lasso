@@ -1,8 +1,11 @@
-# Cas13_Lasso
+# Cas13 Lasso
 
-A lasso-based machine learning model for calculating Cas13d  lentiviral deficiency score. This model is used in our paper [Intrinsic RNA targeting constrains the utility of CRISPR-Cas13 systems](https://www.biorxiv.org/content/10.1101/2022.05.14.491940v1)
+A lasso-based machine learning model for calculating Cas13d **Lentiviral Deficiency Score**. This model is used in our paper [Intrinsic RNA targeting constrains the utility of CRISPR-Cas13 systems](https://www.biorxiv.org/content/10.1101/2022.05.14.491940v1)
+
+### About Lentiviral Deficiency Score ###
 
 ![lasso](./static/lasso.png)
+
 
 Cas13 systems under lentiviral vectors exhibit differential levels of lentiviral deficiency by which lentiviral Cas13 compoments cannot be properly packaged and delivered through lentivirus particles.
 
