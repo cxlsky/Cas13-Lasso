@@ -1,6 +1,9 @@
 # Cas13_Lasso
 
-A Lasso model for Cas13 base preference. 
+A Lasso model for calculating Cas13 base preference. 
+
+This repository is desinged for our paper *Intrinsic RNA targeting constrains the utility of CRISPR-Cas13 systems![image](https://user-images.githubusercontent.com/20998111/184535758-64dae8f5-df80-4ffa-8ec1-54246dafd783.png)
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.14.491940v1)
 
 ### Install dependencies ###
 
